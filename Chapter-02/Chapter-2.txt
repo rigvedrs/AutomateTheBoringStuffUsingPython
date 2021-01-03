@@ -1,0 +1,84 @@
+1. True and false
+   We write them as 'True', 'False'
+
+2. and, or, not
+
+3. True and True = True.
+
+   True and False = False.
+
+   False and True = False.
+
+   False and False = False.
+
+   True or True = True.
+
+   True or False = True.
+
+   False or True = True.
+
+   False or False = False.
+
+   not True = False.
+
+   not False = True.
+
+4. False
+
+ False
+
+ True
+
+ False
+
+ False
+
+ True
+
+5. ==, !=, >, <, >=, and <=
+
+6. the == operator compares two values and returns a Boolean value,
+
+   whereas = is the assignment operator that is used to assign a value to a variable.
+
+
+7. A condition is an expression used in a flow control statements (such as loops) that evaluates to a Boolean value.
+
+8. The three blocks are everything inside the if statement and the lines print('bacon') and print('ham').
+
+print('eggs')
+if spam > 5:
+    print('bacon')
+else:
+    print('ham')
+print('spam')
+
+9. 
+if spam == 1:
+    print('Hello')
+elif spam == 2:
+    print('Howdy')
+else:
+    print('Greetings!')
+
+10. Press Ctrl-C
+
+11. The break statement directly jumps of the loop after it is executed, skipping all the remaining iterations. 
+    The continue statement skips the current iteration of the loop.
+
+12. They all do the same thing. The loops starts from 0 and keeps incrementing and executing until it reaches 9.
+
+13. using for loop:
+ 
+for i in range(1, 11):
+    print(i)
+
+
+using while loop:
+
+i = 1
+while i <= 10:
+    print(i)
+    i = i + 1
+
+14. spam.bacon()
