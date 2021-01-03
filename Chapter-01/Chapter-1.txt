@@ -1,0 +1,33 @@
+1)operators:
+  +, -, *, / 
+
+  values:
+  'hello', -88.8, 5
+
+
+
+2)The string is 'spam' 
+  the variable is spam 
+
+3)integers
+  floating point numbers  
+  strings
+
+4)An expression is a combination of values and operators. 
+  All expressions evaluate to give a final solution.
+
+5)An expression evaluates to a single value whereas A statement does not.
+
+6)20
+
+7) 'spamspamspam'.
+   
+   'spamspamspam'.
+
+
+8)Variable names cannot begin with a number.
+
+9)The int(), float(), and str() 
+
+10)Because 99 is an integer, and only strings can be concatenated to other strings with the + operator. 
+   It can be fixed by using: 'I have eaten ' + str(99) + ' burritos.'.
