@@ -1,0 +1,30 @@
+1. When we have to execute a certain algorithm or logic repeatedly we can use functions to write the algorithm only once and then execute it repeatedly by only calling the function.
+
+2. When the function is called
+
+3. The def statement creates a fuction
+
+4. A function consists of the the code we have to execute, wheras a function call is used to call a function to execute it.
+
+5. There is one global scope
+    The number of local scopes depends on the number of functions created.
+
+6. When a function returns, the local scope is deleted.
+
+7. A return value is the value that the function returns, and that a function call evaluates to. 
+   A reuturn valur can be used as a part of an expression.
+
+8. None
+
+9. A global statement will force a variable in a function to refer to the global variable.
+
+10. NoneType
+
+11. That import statement imports a module named areallyourpetsnamederic. 
+
+12. spam.bacon()
+
+13. Using the try clause.
+
+14. The code that could cause an error goes in the try clause. 
+    The code that executes if an error happens goes in the except clause.
