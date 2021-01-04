@@ -1,0 +1,41 @@
+1. Escape characters represent characters in string values that would otherwise be difficult or impossible to type into code.
+
+2. \n is a newline
+   \t is a tab.
+
+3. By using the \\ escape character 
+
+4. Because double qoutes are being used.
+
+5. By using Multiline strings 
+
+6.
+
+'e'
+
+'Hello'
+
+'Hello'
+
+'lo, world!
+
+
+7. 
+
+'HELLO'
+
+True
+
+'hello'
+
+
+8. The expressions evaluate to the following:
+
+['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+
+'There-can-be-only-one.'
+
+
+9. The rjust(), ljust(), and center() string methods respectively
+
+10. The lstrip() and rstrip() methods remove whitespace characters from the left and right ends of a string respectively.
